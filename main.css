@@ -1,0 +1,17 @@
+
+        .navbar-nav .nav-link.active {
+            color: #fff;
+        }
+
+        .nav-link {
+            text-align: center;
+        }
+
+        section {
+            background-color: #fff;
+            padding-top: 85px;
+        }
+
+        footer {
+            margin-top: 56px;
+        }
